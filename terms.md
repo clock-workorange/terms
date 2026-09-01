@@ -10,7 +10,7 @@ These Terms of Service ("Terms") govern your use of the Discord application **al
 
 ## 1. What the Service does
 
-The Service is a companion tool for the mobile game *Top Heroes* (by **River Game**). Members may voluntarily register their own game accounts with the Service. On their behalf, the Service automates:
+The Service is a **free** companion tool for the mobile game *Top Heroes* (by **River Game**) — there are no paid features, subscriptions, or purchases of any kind. Members may voluntarily register their own game accounts with the Service. On their behalf, the Service automates:
 
 - the daily in-game sign-in reward claim, and
 - redemption of publicly shared gift codes,

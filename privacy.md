@@ -44,7 +44,7 @@ Retention is deliberately short and enforced by an automated weekly job:
 
 ## 4. Data storage and security
 
-Data is stored in a private database on a server controlled by the Service administrator. Access is restricted to the administrator. Game session tokens are used only to call the game's official API on your behalf.
+Data is stored in a private database on a server controlled by the Service administrator, with disk encryption at rest (LUKS). Access is restricted to the administrator. Game session tokens are used only to call the game's official API on your behalf.
 
 ## 5. Your rights and choices
 
